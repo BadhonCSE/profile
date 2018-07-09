@@ -1,0 +1,36 @@
+div:1{
+color : black;
+width; 50px;
+border: 2px solid black;
+font size:16px,line-height: 1;
+letter-spacing: 1px;
+}
+
+html{
+	background-color:gray;
+	
+	
+}
+
+body{
+	margin-top:100px;
+	margin-right:80px;
+	margin-left:80px;
+	margin-bottom:100px;
+	padding: 0 200px 200px 200px;
+	border : 5px solid black;
+	
+	
+}
+h1{
+	margin: 5;
+	padding:20px;
+	color:blue;
+	text-shadow: 5px 5px 1px black;
+	
+	
+}
+/*body{
+	margin : f g j kpx
+	
+}/*
